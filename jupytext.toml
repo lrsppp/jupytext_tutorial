@@ -1,0 +1,2 @@
+# Separate into distinct folders
+default_jupytext_formats = "notebooks///ipynb,scripts///py:percent"
